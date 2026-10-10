@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,a8 as o}from"./chunks/framework.C6RJmcYn.js";const p=JSON.parse('{"title":"网站介绍","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md"}'),s={name:"readme.md"};function n(d,e,i,l,_,c){return r(),t("div",null,[...e[0]||(e[0]=[o("",6)])])}const m=a(s,[["render",n]]);export{p as __pageData,m as default};
