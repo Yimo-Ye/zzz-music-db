@@ -27,6 +27,7 @@
       "国语",
       "英语"
     ],
+    "wyid": "2604937294",
     "bvid": "BV1E6421Z7rm",
     "description": "OP"
   },
@@ -49,7 +50,70 @@
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2604937295",
     "description": "OP"
+  },
+  {
+    "id": "3",
+    "title": "ZENLESS",
+    "artist": [
+      "Silent Child"
+    ],
+    "producer": [
+      "Tiësto",
+      "Lucas",
+      "Steve",
+      "Silent Child"
+    ],
+    "lyricist": [
+      "Lucas de Wert",
+      "Kevin Hissink",
+      "Steven Jansen",
+      "Tijs Verwest",
+      "Rodney Isaiah Cooke-Sykes"
+    ],
+    "composer": [
+      "Lucas de Wert",
+      "Kevin Hissink",
+      "Steven Jansen",
+      "Tijs Verwest",
+      "Rodney Isaiah Cooke-Sykes"
+    ],
+    "arranger": [],
+    "album": "ZENLESS",
+    "year": "2024",
+    "genre": "OP/ED/主题曲",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2604006843",
+    "bvid": "BV1ns421M7Zs",
+    "description": "Tiësto × 绝区零合作曲"
+  },
+  {
+    "id": "4",
+    "title": "ZENLESS (Instrumental)",
+    "artist": [],
+    "producer": [
+      "Tiësto",
+      "Lucas",
+      "Steve"
+    ],
+    "lyricist": [],
+    "composer": [
+      "Lucas de Wert",
+      "Kevin Hissink",
+      "Steven Jansen",
+      "Tijs Verwest",
+      "Rodney Isaiah Cooke-Sykes"
+    ],
+    "arranger": [],
+    "album": "ZENLESS",
+    "year": "2024",
+    "genre": "OP/ED/主题曲",
+    "language": [],
+    "wyid": "2604006844",
+    "description": "Tiësto × 绝区零合作曲"
   },
   {
     "id": "5",
@@ -72,10 +136,11 @@
     ],
     "album": "绝区零-BITE! 咬合力",
     "year": "2024",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "2606329521",
     "bvid": "BV1mb421n7uh",
     "description": "艾莲EP"
   },
@@ -97,6 +162,7 @@
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2606327853",
     "description": "艾莲EP"
   },
   {
@@ -117,7 +183,8 @@
     "year": "2024",
     "genre": "BGM/纯音乐",
     "language": [],
-    "description": "官网动态前瞻音乐BGM"
+    "wyid": "2609525139",
+    "description": "官网音乐原声带"
   },
   {
     "id": "8",
@@ -137,7 +204,8 @@
     "year": "2024",
     "genre": "BGM/纯音乐",
     "language": [],
-    "description": "官网动态前瞻音乐BGM"
+    "wyid": "2609526562",
+    "description": "官网音乐原声带"
   },
   {
     "id": "9",
@@ -157,7 +225,8 @@
     "year": "2024",
     "genre": "BGM/纯音乐",
     "language": [],
-    "description": "官网动态前瞻音乐BGM"
+    "wyid": "2609526563",
+    "description": "官网音乐原声带"
   },
   {
     "id": "10",
@@ -177,7 +246,8 @@
     "year": "2024",
     "genre": "BGM/纯音乐",
     "language": [],
-    "description": "官网动态前瞻音乐BGM"
+    "wyid": "2609526564",
+    "description": "官网音乐原声带"
   },
   {
     "id": "11",
@@ -199,10 +269,11 @@
     ],
     "album": "绝区零-一颗方糖悬滞的时间",
     "year": "2024",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "2612750275",
     "bvid": "BV1Zf421q7Ro",
     "description": "朱鸢EP"
   },
@@ -224,6 +295,7 @@
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2612750276",
     "description": "朱鸢EP"
   },
   {
@@ -246,10 +318,11 @@
     ],
     "album": "绝区零-红透晚烟青",
     "year": "2024",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "2618046004",
     "bvid": "BV11S421X7hy",
     "description": "青衣MV"
   },
@@ -271,6 +344,7 @@
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2618046661",
     "description": "青衣MV"
   },
   {
@@ -289,15 +363,14 @@
     "composer": [
       "ChiliChill"
     ],
-    "arranger": [
-      "ChiliChill"
-    ],
+    "arranger": [],
     "album": "绝区零-pinKing",
     "year": "2024",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "2633466472",
     "bvid": "BV1DrsrepEuY",
     "description": "凯撒EP"
   },
@@ -312,13 +385,12 @@
     "composer": [
       "ChiliChill"
     ],
-    "arranger": [
-      "ChiliChill"
-    ],
+    "arranger": [],
     "album": "绝区零-pinKing",
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2633466473",
     "description": "凯撒EP"
   },
   {
@@ -341,10 +413,11 @@
     ],
     "album": "绝区零-Burning Desires 绝望吧台",
     "year": "2024",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "2639322684",
     "bvid": "BV1tUycYNEo5",
     "description": "柏妮思EP"
   },
@@ -366,7 +439,40 @@
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2639323478",
     "description": "柏妮思EP"
+  },
+  {
+    "id": "19",
+    "title": "绝区零2024Mix丨极限委托",
+    "artist": [],
+    "producer": [
+      "杨武韬",
+      "宋培彦",
+      "雷声",
+      "周斌"
+    ],
+    "lyricist": [
+      "雷十一",
+      "Peter Sierzput",
+      "杨武韬"
+    ],
+    "composer": [
+      "杨武韬",
+      "宋培彦",
+      "雷声",
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零2024Mix丨极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2639684321",
+    "bvid": "BV1Ap4ZetE7P",
+    "description": "2024英国Creamfields音乐节表演"
   },
   {
     "id": "20",
@@ -386,10 +492,11 @@
     "arranger": [],
     "album": "绝区零-小停再出发",
     "year": "2024",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "日语"
     ],
+    "wyid": "2644569024",
     "bvid": "BV14zD3YCE1s",
     "description": "月城柳EP"
   },
@@ -409,6 +516,7 @@
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2644569025",
     "description": "月城柳EP"
   },
   {
@@ -430,10 +538,11 @@
     "arranger": [],
     "album": "绝区零-Fearless 无所畏惧",
     "year": "2024",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "2651562175",
     "bvid": "BV1edBSYAEWt",
     "description": "莱特EP"
   },
@@ -454,6 +563,7 @@
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2651562176",
     "description": "莱特EP"
   },
   {
@@ -474,10 +584,11 @@
     ],
     "album": "绝区零-晓",
     "year": "2024",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "日语"
     ],
+    "wyid": "2658093531",
     "bvid": "BV1fGkAYSESP",
     "description": "星见雅EP"
   },
@@ -497,6 +608,7 @@
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2658094313",
     "description": "星见雅EP"
   },
   {
@@ -517,10 +629,11 @@
     "arranger": [],
     "album": "绝区零-绘本",
     "year": "2024",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "日语"
     ],
+    "wyid": "2658101767",
     "bvid": "BV1FLkzYsEDe",
     "description": "浅羽悠真EP"
   },
@@ -540,6 +653,7 @@
     "year": "2024",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2658100994",
     "description": "浅羽悠真EP"
   },
   {
@@ -592,10 +706,11 @@
     ],
     "album": "绝区零-天琴座+",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "粤语"
     ],
+    "wyid": "2666660478",
     "bvid": "BV1uQwqeDEXK",
     "description": "耀嘉音MV"
   },
@@ -619,10 +734,11 @@
     ],
     "album": "绝区零-天琴座+",
     "year": "2025",
-    "genre": "角色曲",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "2666662368",
     "description": "耀嘉音角色音乐"
   },
   {
@@ -646,10 +762,11 @@
     ],
     "album": "绝区零-天琴座+",
     "year": "2025",
-    "genre": "角色曲",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "2666660479",
     "description": "耀嘉音角色音乐"
   },
   {
@@ -669,10 +786,11 @@
     "arranger": [],
     "album": "绝区零-天琴座+",
     "year": "2025",
-    "genre": "角色曲",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "2666662369",
     "description": "耀嘉音角色音乐"
   },
   {
@@ -695,11 +813,13 @@
     ],
     "album": "绝区零-天琴座+",
     "year": "2025",
-    "genre": "角色曲",
+    "genre": "角色PV/角色展示",
     "language": [
       "国语"
     ],
-    "description": "耀嘉音角色音乐"
+    "wyid": "3334395674",
+    "bvid": "BV1nnwHedEZL",
+    "description": "耀嘉音角色展示"
   },
   {
     "id": "264",
@@ -719,6 +839,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2666660480",
     "description": "耀嘉音MV"
   },
   {
@@ -739,6 +860,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2666662370",
     "description": "耀嘉音角色音乐"
   },
   {
@@ -760,6 +882,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2666662371",
     "description": "耀嘉音角色音乐"
   },
   {
@@ -780,7 +903,8 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
-    "description": "耀嘉音角色音乐"
+    "wyid": "3334395675",
+    "description": "耀嘉音角色展示"
   },
   {
     "id": "268",
@@ -803,10 +927,11 @@
     ],
     "album": "绝区零-Stars Align 当群星交汇",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "2675131838",
     "bvid": "BV1KkNieUEe4",
     "description": "伊芙琳EP"
   },
@@ -828,6 +953,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2675131839",
     "description": "伊芙琳EP"
   },
   {
@@ -850,10 +976,11 @@
     ],
     "album": "绝区零-拂晓之空 闪耀之誓",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "日语"
     ],
+    "wyid": "2691982296",
     "bvid": "BV1HTZpYSExJ",
     "description": "星徽骑士EP"
   },
@@ -877,10 +1004,11 @@
     ],
     "album": "绝区零-拂晓之空 闪耀之誓",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "2691982297",
     "bvid": "BV1HTZpYSExJ",
     "description": "星徽骑士EP"
   },
@@ -902,6 +1030,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2691976990",
     "description": "星徽骑士EP"
   },
   {
@@ -931,10 +1060,11 @@
     ],
     "album": "绝区零-My Curse, My Fate",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "法语"
     ],
+    "wyid": "2704988304",
     "bvid": "BV1jfE7zrEKd",
     "description": "雨果EP"
   },
@@ -958,6 +1088,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2704989258",
     "description": "雨果EP"
   },
   {
@@ -980,10 +1111,11 @@
     ],
     "album": "绝区零-不及",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "2711809790",
     "bvid": "BV1eN7czSEVD",
     "description": "仪玄EP"
   },
@@ -1005,6 +1137,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2711810546",
     "description": "仪玄EP"
   },
   {
@@ -1027,10 +1160,11 @@
     ],
     "album": "绝区零-食通万物 修心修身",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "2719007449",
     "bvid": "BV17xKpzxELF",
     "description": "橘福福EP"
   },
@@ -1052,6 +1186,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2719004778",
     "description": "橘福福EP"
   },
   {
@@ -1075,10 +1210,11 @@
     ],
     "album": "绝区零-乐园梦游计",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "日语"
     ],
+    "wyid": "2726655617",
     "bvid": "BV1Jjuzz7EM5",
     "description": "浮波柚叶EP"
   },
@@ -1100,6 +1236,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2726655618",
     "description": "浮波柚叶EP"
   },
   {
@@ -1122,10 +1259,11 @@
     ],
     "album": "绝区零-FURYON 狂怒觉醒",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "2749055455",
     "bvid": "BV1cqWgzGEoB",
     "description": "奥菲斯鬼火EP"
   },
@@ -1147,6 +1285,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2749055456",
     "description": "奥菲斯鬼火EP"
   },
   {
@@ -1174,10 +1313,11 @@
     ],
     "album": "绝区零-DAMIDAMI",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "2755332551",
     "bvid": "BV1Ta4gzxE7i",
     "description": "卢西娅EP"
   },
@@ -1199,6 +1339,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "2755332552",
     "description": "卢西娅EP"
   },
   {
@@ -1222,10 +1363,11 @@
     ],
     "album": "绝区零-问",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "3328954037",
     "bvid": "BV1BvmeBVEFq",
     "description": "般岳EP"
   },
@@ -1248,6 +1390,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3328953189",
     "description": "般岳EP"
   },
   {
@@ -1271,10 +1414,11 @@
     ],
     "album": "绝区零-Tiny Giant 小巨星",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "3334421408",
     "bvid": "BV1G2B9BNEGP",
     "description": "照EP"
   },
@@ -1296,6 +1440,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3334421409",
     "description": "照EP"
   },
   {
@@ -1318,10 +1463,11 @@
     ],
     "album": "绝区零-千万次初见",
     "year": "2025",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "3334431717",
     "bvid": "BV1M7BYBeExM",
     "description": "叶瞬光EP"
   },
@@ -1343,6 +1489,7 @@
     "year": "2025",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3334431718",
     "description": "叶瞬光EP"
   },
   {
@@ -1359,7 +1506,8 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
-    "description": "25年新春音乐"
+    "wyid": "3336859476",
+    "description": "春节期间地图音乐"
   },
   {
     "id": "292",
@@ -1375,6 +1523,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336862991",
     "description": "澄辉坪音乐"
   },
   {
@@ -1391,6 +1540,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336862992",
     "description": "夜晚的小曲"
   },
   {
@@ -1407,6 +1557,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859477",
     "description": "2.0预约音乐"
   },
   {
@@ -1423,6 +1574,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336862993",
     "description": "澄辉坪夜晚音乐"
   },
   {
@@ -1439,6 +1591,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859478",
     "description": "星环音乐"
   },
   {
@@ -1455,6 +1608,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859479",
     "description": "拍卖会休息室音乐"
   },
   {
@@ -1471,6 +1625,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859480",
     "description": "泅珑围音乐"
   },
   {
@@ -1487,6 +1642,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859481",
     "description": "绮梦度假村音乐"
   },
   {
@@ -1503,6 +1659,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336862994",
     "description": "朝露花店音乐"
   },
   {
@@ -1519,6 +1676,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859482",
     "description": "引力电影院售票处音乐"
   },
   {
@@ -1535,6 +1693,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336862995",
     "description": "随便观·萧条音乐"
   },
   {
@@ -1551,6 +1710,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859483",
     "description": "随便观·复苏音乐"
   },
   {
@@ -1567,6 +1727,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336862996",
     "description": "随便观·复兴音乐"
   },
   {
@@ -1583,6 +1744,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336862997",
     "description": "伏汐会音乐"
   },
   {
@@ -1599,6 +1761,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336862998",
     "description": "德丰大押音乐"
   },
   {
@@ -1615,6 +1778,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336862999",
     "description": "饮茶仙音乐"
   },
   {
@@ -1631,6 +1795,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863000",
     "description": "饮茶仙二楼音乐"
   },
   {
@@ -1647,6 +1812,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863001",
     "description": "不掩音乐"
   },
   {
@@ -1663,6 +1829,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859484",
     "description": "25马赫常态音乐"
   },
   {
@@ -1679,6 +1846,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863002",
     "description": "25马赫加速音乐"
   },
   {
@@ -1695,6 +1863,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859485",
     "description": "25马赫无敌冲刺音乐"
   },
   {
@@ -1711,6 +1880,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863003",
     "description": "莱姆尼安空洞战斗音乐"
   },
   {
@@ -1727,6 +1897,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863004",
     "description": "秽蚀流界音乐"
   },
   {
@@ -1743,6 +1914,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859486",
     "description": "昔丘音乐"
   },
   {
@@ -1759,6 +1931,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863005",
     "description": "矿区旧址音乐"
   },
   {
@@ -1775,6 +1948,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859487",
     "description": "港口工厂旧址音乐"
   },
   {
@@ -1791,6 +1965,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863006",
     "description": "港口工厂旧址战斗音乐"
   },
   {
@@ -1807,6 +1982,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859488",
     "description": "辉岭石矿场音乐"
   },
   {
@@ -1823,6 +1999,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863007",
     "description": "万愆之源音乐"
   },
   {
@@ -1839,6 +2016,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859489",
     "description": "零号·安比作战曲"
   },
   {
@@ -1855,6 +2033,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863008",
     "description": "扳机作战曲"
   },
   {
@@ -1871,6 +2050,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863009",
     "description": "橘福福秘闻音乐"
   },
   {
@@ -1893,6 +2073,7 @@
     "language": [
       "英语"
     ],
+    "wyid": "3336859490",
     "description": "鏖战试炼（爬塔）战斗音乐"
   },
   {
@@ -1909,6 +2090,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859491",
     "description": "零号空洞·迷失之地音乐"
   },
   {
@@ -1925,6 +2107,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859492",
     "description": "骸鸟BOSS战音乐"
   },
   {
@@ -1941,6 +2124,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859493",
     "description": "雨果BOSS战音乐"
   },
   {
@@ -1957,6 +2141,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863010",
     "description": "雨果BOSS战音乐“？版”"
   },
   {
@@ -1973,6 +2158,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859494",
     "description": "特佩什BOSS战音乐"
   },
   {
@@ -1989,6 +2175,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859495",
     "description": "杰佩托BOSS战音乐"
   },
   {
@@ -2005,6 +2192,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863011",
     "description": "称颂会司教BOSS战二阶段音乐"
   },
   {
@@ -2021,6 +2209,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859496",
     "description": "称颂会司教处刑曲"
   },
   {
@@ -2037,6 +2226,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863012",
     "description": "名可名BOSS战音乐"
   },
   {
@@ -2053,6 +2243,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859497",
     "description": "亵渎者BOSS战音乐"
   },
   {
@@ -2069,6 +2260,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859498",
     "description": "伊瑟尔德死斗音乐"
   },
   {
@@ -2085,6 +2277,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863013",
     "description": "溺想者·狛野真斗BOSS战音乐"
   },
   {
@@ -2101,6 +2294,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859499",
     "description": "彷徨猎手BOSS战音乐"
   },
   {
@@ -2117,6 +2311,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859500",
     "description": "叶释渊BOSS战二阶段音乐"
   },
   {
@@ -2133,6 +2328,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859501",
     "description": "太初梦魇BOSS战音乐"
   },
   {
@@ -2149,6 +2345,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863014",
     "description": "以太解密音乐"
   },
   {
@@ -2165,6 +2362,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863015",
     "description": "维修解密音乐"
   },
   {
@@ -2181,6 +2379,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859502",
     "description": "厄匹斯极钓大师赛比赛音乐"
   },
   {
@@ -2197,6 +2396,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863016",
     "description": "厄匹斯极钓大师赛·决赛音乐"
   },
   {
@@ -2213,6 +2413,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863017",
     "description": "玛瑟尔大冒险闯关音乐"
   },
   {
@@ -2229,6 +2430,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863018",
     "description": "玛瑟尔大冒险颁奖音乐"
   },
   {
@@ -2245,6 +2447,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863019",
     "description": "丽都有布音乐"
   },
   {
@@ -2261,6 +2464,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859503",
     "description": "丽都有布·挑战模式音乐"
   },
   {
@@ -2277,6 +2481,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859504",
     "description": "防卫军军营音乐"
   },
   {
@@ -2293,6 +2498,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863020",
     "description": "战斗吧！三尺英雄活动音乐"
   },
   {
@@ -2309,6 +2515,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859505",
     "description": "战斗吧！三尺英雄·最终关卡音乐"
   },
   {
@@ -2325,6 +2532,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859506",
     "description": "光影私享音乐"
   },
   {
@@ -2341,6 +2549,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859507",
     "description": "爱丽丝冲浪音乐"
   },
   {
@@ -2357,6 +2566,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863021",
     "description": "看电影音乐"
   },
   {
@@ -2373,6 +2583,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863022",
     "description": "电影结束音乐"
   },
   {
@@ -2389,6 +2600,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863023",
     "description": "机器人活动待机音乐"
   },
   {
@@ -2405,6 +2617,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859508",
     "description": "机器人活动战斗音乐"
   },
   {
@@ -2421,6 +2634,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863024",
     "description": "绝区零活动最终关卡战斗音乐"
   },
   {
@@ -2437,6 +2651,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863025",
     "description": "自走棋待机活动音乐"
   },
   {
@@ -2453,6 +2668,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859509",
     "description": "钓大鱼的小曲"
   },
   {
@@ -2469,6 +2685,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859510",
     "description": "塔防活动音乐"
   },
   {
@@ -2485,6 +2702,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859511",
     "description": "自走棋活动战斗音乐"
   },
   {
@@ -2501,6 +2719,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863026",
     "description": "《临界推演：歧路回想》活动音乐"
   },
   {
@@ -2517,6 +2736,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863027",
     "description": "战棋活动最终关卡音乐"
   },
   {
@@ -2533,6 +2753,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863028",
     "description": "黄金魔神号整备基地音乐"
   },
   {
@@ -2552,6 +2773,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863029",
     "description": "空明寻剑录地图＆战斗音乐"
   },
   {
@@ -2568,6 +2790,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859512",
     "description": "艾莲秘闻剧情音乐"
   },
   {
@@ -2584,6 +2807,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859513",
     "description": "仪玄初登场音乐"
   },
   {
@@ -2600,6 +2824,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859514",
     "description": "剧情日常对话音乐"
   },
   {
@@ -2616,6 +2841,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859515",
     "description": "奥波勒斯小队剧情音乐"
   },
   {
@@ -2632,6 +2858,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859516",
     "description": "剧情转折的小曲"
   },
   {
@@ -2648,6 +2875,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859517",
     "description": "2.4PV后半段"
   },
   {
@@ -2664,6 +2892,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859518",
     "description": "诡异的小曲"
   },
   {
@@ -2680,6 +2909,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859519",
     "description": "称颂会对话的小曲"
   },
   {
@@ -2696,6 +2926,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859520",
     "description": "营救浮波柚叶前音乐"
   },
   {
@@ -2712,6 +2943,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863030",
     "description": "回忆的小曲"
   },
   {
@@ -2729,6 +2961,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859521",
     "description": "席德告别老席德音乐"
   },
   {
@@ -2746,6 +2979,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859522",
     "description": "老席德回忆音乐"
   },
   {
@@ -2762,6 +2996,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863031",
     "description": "伊德海莉活动音乐"
   },
   {
@@ -2778,6 +3013,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863032",
     "description": "薇薇安轻生音乐"
   },
   {
@@ -2794,6 +3030,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859523",
     "description": "发刀的小曲"
   },
   {
@@ -2810,6 +3047,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863033",
     "description": "突发的小曲"
   },
   {
@@ -2826,6 +3064,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863034",
     "description": "剧情思考的小曲"
   },
   {
@@ -2842,6 +3081,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336859524",
     "description": "2.1版本PV音乐片段"
   },
   {
@@ -2858,6 +3098,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863035",
     "description": "奥波勒斯作战简报音乐"
   },
   {
@@ -2874,6 +3115,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3336863036",
     "description": "防卫军“胜利”音乐"
   },
   {
@@ -2890,6 +3132,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337103695",
     "description": "逃生音乐"
   },
   {
@@ -2906,6 +3149,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337106236",
     "description": "电玩节广告"
   },
   {
@@ -2922,6 +3166,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337103696",
     "description": "和薇薇安一起看电影"
   },
   {
@@ -2938,6 +3183,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337106237",
     "description": "TOPS广告"
   },
   {
@@ -2954,6 +3200,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337106238",
     "description": "和凯撒一起看电影"
   },
   {
@@ -2970,6 +3217,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337103697",
     "description": "和耀嘉音一起看电影"
   },
   {
@@ -2986,6 +3234,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337103698",
     "description": "和启明星一起看电影"
   },
   {
@@ -3002,6 +3251,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337103699",
     "description": "雨果心魔BOSS战音乐"
   },
   {
@@ -3018,6 +3268,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337106239",
     "description": "渡尘3.0"
   },
   {
@@ -3034,6 +3285,7 @@
     "year": "2026",
     "genre": "BGM/纯音乐",
     "language": [],
+    "wyid": "3337103700",
     "description": "叶瞬光八音盒音乐"
   },
   {
@@ -3054,7 +3306,8 @@
     "language": [
       "国语"
     ],
-    "description": "卢西娅"
+    "wyid": "3337106240",
+    "description": "卢西娅童谣，PV插曲"
   },
   {
     "id": "397",
@@ -3074,7 +3327,8 @@
     "language": [
       "日语"
     ],
-    "description": "卢西娅"
+    "wyid": "3337103701",
+    "description": "卢西娅童谣，PV插曲"
   },
   {
     "id": "398",
@@ -3094,7 +3348,8 @@
     "language": [
       "英语"
     ],
-    "description": "卢西娅"
+    "wyid": "3337103702",
+    "description": "卢西娅童谣，PV插曲"
   },
   {
     "id": "399",
@@ -3114,7 +3369,543 @@
     "language": [
       "韩语"
     ],
-    "description": "卢西娅"
+    "wyid": "3337103703",
+    "description": "卢西娅童谣，PV插曲"
+  },
+  {
+    "id": "400",
+    "title": "闪耀的此刻",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "余宗儒"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342434282",
+    "bvid": "BV1HWc7e5E3f",
+    "description": "1.5版本PV"
+  },
+  {
+    "id": "401",
+    "title": "在被遗忘的废墟之上",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342434283",
+    "bvid": "BV12r9uY5E7z",
+    "description": "1.6版本PV"
+  },
+  {
+    "id": "402",
+    "title": "将眼泪与过往一同埋葬",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "余宗儒"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342434284",
+    "bvid": "BV1qtdUY5Ehc",
+    "description": "1.7版本PV"
+  },
+  {
+    "id": "403",
+    "title": "锁秽遮目障万重",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342434285",
+    "bvid": "BV17ddhYwEJa",
+    "description": "第二季先导PV"
+  },
+  {
+    "id": "404",
+    "title": "云霞同归处",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342431554",
+    "bvid": "BV1CfJnzwEoP",
+    "description": "2.0版本PV"
+  },
+  {
+    "id": "405",
+    "title": "迟吟的浪涌",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "余宗儒"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342434286",
+    "bvid": "BV16g37zfEmV",
+    "description": "2.1版本PV"
+  },
+  {
+    "id": "406",
+    "title": "不要温和地走入那良夜",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "王铭基"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342434287",
+    "bvid": "BV1n5etz7EMr",
+    "description": "2.2版本PV"
+  },
+  {
+    "id": "407",
+    "title": "可曾记得梦",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "余宗儒"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342431555",
+    "bvid": "BV1ZCnvzaEsu",
+    "description": "2.3版本PV"
+  },
+  {
+    "id": "408",
+    "title": "将临未抵的深渊",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342431556",
+    "bvid": "BV1XrCTBSEfq",
+    "description": "2.4版本PV"
+  },
+  {
+    "id": "409",
+    "title": "微光引灯时",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342434288",
+    "bvid": "BV1H2qZBoEjf",
+    "description": "2.5版本PV"
+  },
+  {
+    "id": "410",
+    "title": "丽都闪耀时",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "3342431557",
+    "bvid": "BV13rnBzaEob",
+    "description": "2025 FES 动画CM"
+  },
+  {
+    "id": "411",
+    "title": "以我之名",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434289",
+    "bvid": "BV1uSNHemEXk",
+    "description": "伊芙琳角色展示"
+  },
+  {
+    "id": "412",
+    "title": "第零适格者",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342431558",
+    "bvid": "BV1iP9yY4EiB",
+    "description": "零号·安比角色展示"
+  },
+  {
+    "id": "413",
+    "title": "特别营救",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "余宗儒"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434290",
+    "bvid": "BV18hZ3YeECi",
+    "description": "扳机角色展示"
+  },
+  {
+    "id": "414",
+    "title": "花束般的眷恋",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342431559",
+    "bvid": "BV1BX51zyEUi",
+    "description": "薇薇安角色展示"
+  },
+  {
+    "id": "415",
+    "title": "末日领衔主犯",
+    "artist": [
+      "Mr.mo"
+    ],
+    "producer": [],
+    "lyricist": [
+      "杨武韬"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "3342431560",
+    "bvid": "BV1Aa5Tz1E4G",
+    "description": "雨果角色展示"
+  },
+  {
+    "id": "416",
+    "title": "决战武道之巅",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434291",
+    "bvid": "BV1Wb75zrEtu",
+    "description": "仪玄角色展示"
+  },
+  {
+    "id": "417",
+    "title": "绝世豪虎",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "余宗儒"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434292",
+    "bvid": "BV1UWN4zJEn7",
+    "description": "橘福福角色展示"
+  },
+  {
+    "id": "418",
+    "title": "鬼使狸差",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434293",
+    "bvid": "BV1i9uGzTE2d",
+    "description": "浮波柚叶角色展示"
+  },
+  {
+    "id": "419",
+    "title": "剑与华尔兹",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434294",
+    "bvid": "BV1prhxzuEtq",
+    "description": "爱丽丝角色展示"
+  },
+  {
+    "id": "420",
+    "title": "白色恶魔",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342431561",
+    "bvid": "BV1Dcx2zbEjv",
+    "description": "席德角色展示"
+  },
+  {
+    "id": "421",
+    "title": "枪管过热",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434295",
+    "bvid": "BV12Ja5zmEWo",
+    "description": "奥菲丝鬼火角色展示"
+  },
+  {
+    "id": "422",
+    "title": "鉴定绳网热门以骸",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342431562",
+    "bvid": "BV149nKzAEXS",
+    "description": "卢西娅角色展示"
+  },
+  {
+    "id": "423",
+    "title": "自导自演",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "王铭基"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342431563",
+    "bvid": "BV1xEm1B9EYA",
+    "description": "伊德海莉角色展示"
+  },
+  {
+    "id": "424",
+    "title": "已读乱回",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434296",
+    "bvid": "BV1WoUmB8EJt",
+    "description": "琉音角色展示"
+  },
+  {
+    "id": "425",
+    "title": "武道审查",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342431564",
+    "bvid": "BV18j1vBtEsA",
+    "description": "般岳角色展示"
+  },
+  {
+    "id": "426",
+    "title": "兔兔解忧室",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "余宗儒"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434297",
+    "bvid": "BV1njv4BFE6E",
+    "description": "照角色展示"
+  },
+  {
+    "id": "427",
+    "title": "光年效应",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦",
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "3342434298",
+    "bvid": "BV1yFv1BXE4t",
+    "description": "叶瞬光角色展示"
+  },
+  {
+    "id": "428",
+    "title": "Rainy Night",
+    "artist": [
+      "Mr.mo"
+    ],
+    "producer": [],
+    "lyricist": [
+      "SL"
+    ],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托2.0：PV原声集",
+    "year": "2026",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "3342434299",
+    "bvid": "BV1YT421r7pH",
+    "description": "简角色PV | 逮捕"
   },
   {
     "id": "429",
@@ -3140,10 +3931,11 @@
     ],
     "album": "绝区零-ReDreaming Angel 复梦天使",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "3343287820",
     "bvid": "BV11UBfBMEfQ",
     "description": "妄想天使EP"
   },
@@ -3169,10 +3961,11 @@
     ],
     "album": "绝区零-ReDreaming Angel 复梦天使",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "日语"
     ],
+    "wyid": "3343287821",
     "bvid": "BV11UBfBMEfQ",
     "description": "妄想天使EP"
   },
@@ -3194,6 +3987,7 @@
     "year": "2026",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3343287822",
     "description": "妄想天使EP"
   },
   {
@@ -3217,10 +4011,11 @@
     "arranger": [],
     "album": "绝区零-把心跳变成节奏",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "3344795940",
     "bvid": "BV1KozxBmEda",
     "description": "妄想天使EP"
   },
@@ -3241,6 +4036,7 @@
     "year": "2026",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3344794487",
     "description": "妄想天使EP"
   },
   {
@@ -3265,10 +4061,11 @@
     ],
     "album": "绝区零-天使加载中…^_−☆",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "3355611650",
     "bvid": "BV1iFPjzwE5S",
     "description": "爱芮EP"
   },
@@ -3294,10 +4091,11 @@
     ],
     "album": "绝区零-天使加载中…^_−☆",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "日语"
     ],
+    "wyid": "3355612824",
     "bvid": "BV1iFPjzwE5S",
     "description": "爱芮EP"
   },
@@ -3319,6 +4117,7 @@
     "year": "2026",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3355612825",
     "description": "爱芮EP"
   },
   {
@@ -3343,10 +4142,11 @@
     ],
     "album": "绝区零-妄想色心跳",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "国语"
     ],
+    "wyid": "3362538431",
     "bvid": "BV1qDQdB7EbG",
     "description": "南宫羽EP"
   },
@@ -3372,10 +4172,11 @@
     ],
     "album": "绝区零-妄想色心跳",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "日语"
     ],
+    "wyid": "3362537710",
     "bvid": "BV1qDQdB7EbG",
     "description": "南宫羽EP"
   },
@@ -3397,6 +4198,7 @@
     "year": "2026",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3362538432",
     "description": "南宫羽EP"
   },
   {
@@ -3420,10 +4222,11 @@
     ],
     "album": "绝区零-Billy Mode",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "3386678531",
     "bvid": "BV16xVw6gEgu",
     "description": "星徽比利EP"
   },
@@ -3445,6 +4248,7 @@
     "year": "2026",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3386678804",
     "description": "星徽比利EP"
   },
   {
@@ -3471,6 +4275,7 @@
     "language": [
       "英语"
     ],
+    "wyid": "3402223603",
     "bvid": "BV1QRKJ6ZEzC",
     "description": "二周年主题曲"
   },
@@ -3492,6 +4297,7 @@
     "year": "2026",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3402223604",
     "description": "二周年主题曲"
   },
   {
@@ -3515,10 +4321,11 @@
     ],
     "album": "绝区零-chaos.exe",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "3402236035",
     "bvid": "BV1WdTS6eECV",
     "description": "诺姆EP"
   },
@@ -3541,6 +4348,7 @@
     "year": "2026",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3402235746",
     "description": "诺姆EP"
   },
   {
@@ -3564,10 +4372,11 @@
     ],
     "album": "绝区零-Two to Tango 交缠舞步",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "3411999848",
     "bvid": "BV1jhgf6pEJw",
     "description": "蕾米埃尔EP"
   },
@@ -3589,6 +4398,7 @@
     "year": "2026",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3411999849",
     "description": "蕾米埃尔EP"
   },
   {
@@ -3614,10 +4424,11 @@
     ],
     "album": "绝区零-Link Up 血火相连",
     "year": "2026",
-    "genre": "EP",
+    "genre": "角色EP/角色MV",
     "language": [
       "英语"
     ],
+    "wyid": "3433828605",
     "bvid": "BV1C9b76cEks",
     "description": "克拉蕾EP"
   },
@@ -3641,6 +4452,52 @@
     "year": "2026",
     "genre": "伴奏",
     "language": [],
+    "wyid": "3433828606",
     "description": "克拉蕾EP"
+  },
+  {
+    "id": "450",
+    "title": "1％ Battery Girl 低电量女孩",
+    "artist": [
+      "ChiliChill"
+    ],
+    "producer": [
+      "ChiliChill"
+    ],
+    "lyricist": [
+      "ChiliChill"
+    ],
+    "composer": [
+      "ChiliChill"
+    ],
+    "arranger": [],
+    "album": "绝区零-1％ Battery Girl 低电量女孩",
+    "year": "2026",
+    "genre": "角色EP/角色MV",
+    "language": [
+      "英语"
+    ],
+    "wyid": "3451609995",
+    "bvid": "BV1SknF6KE5g",
+    "description": "菲欧妮EP"
+  },
+  {
+    "id": "451",
+    "title": "1％ Battery Girl 低电量女孩 (伴奏)",
+    "artist": [],
+    "producer": [
+      "ChiliChill"
+    ],
+    "lyricist": [],
+    "composer": [
+      "ChiliChill"
+    ],
+    "arranger": [],
+    "album": "绝区零-1％ Battery Girl 低电量女孩",
+    "year": "2026",
+    "genre": "伴奏",
+    "language": [],
+    "wyid": "3451609996",
+    "description": "菲欧妮EP"
   }
 ]
