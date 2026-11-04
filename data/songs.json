@@ -83,9 +83,7 @@
     "album": "ZENLESS",
     "year": "2024",
     "genre": "OP/ED/主题曲",
-    "language": [
-      "英语"
-    ],
+    "language": [],
     "wyid": "2604006843",
     "bvid": "BV1ns421M7Zs",
     "description": "Tiësto × 绝区零合作曲"
@@ -467,9 +465,7 @@
     "album": "绝区零2024Mix丨极限委托",
     "year": "2024",
     "genre": "BGM/纯音乐",
-    "language": [
-      "英语"
-    ],
+    "language": [],
     "wyid": "2639684321",
     "bvid": "BV1Ap4ZetE7P",
     "description": "2024英国Creamfields音乐节表演"
@@ -657,15 +653,71 @@
     "description": "浅羽悠真EP"
   },
   {
+    "id": "222",
+    "title": "绝命舞曲 Acoustic.",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039038",
+    "description": "冥宁芙双子出场CG"
+  },
+  {
+    "id": "223",
+    "title": "火狱骑行",
+    "artist": [
+      "Philip Strand"
+    ],
+    "producer": [],
+    "lyricist": [
+      "陈如业"
+    ],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2658039039",
+    "bvid": "BV1PbxdeQEBV",
+    "description": "过场动画 | 浴火重生的英雄"
+  },
+  {
+    "id": "224",
+    "title": "妖刀幻境",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039040",
+    "description": "雅的恶幻梦境"
+  },
+  {
     "id": "225",
     "title": "Come Alive Stripped.",
     "artist": [
       "Philip Strand",
       "雷声"
     ],
-    "producer": [
-      "雷声"
-    ],
+    "producer": [],
     "lyricist": [
       "Philip Strand",
       "雷声"
@@ -674,9 +726,7 @@
       "Philip Strand",
       "雷声"
     ],
-    "arranger": [
-      "雷声"
-    ],
+    "arranger": [],
     "album": "绝区零-极限委托",
     "year": "2024",
     "genre": "OP/ED/主题曲",
@@ -684,7 +734,681 @@
       "国语",
       "英语"
     ],
-    "description": "第一季ED"
+    "wyid": "2658039041",
+    "bvid": "BV16BCAYdEe7",
+    "description": "过场动画 | 新艾利都永不落幕"
+  },
+  {
+    "id": "226",
+    "title": "世界全剧终，欢迎来到新艾利都！",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "2663827211",
+    "bvid": "BV1xT4y1B7gg",
+    "description": "首曝PV"
+  },
+  {
+    "id": "227",
+    "title": "降噪测试",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "2663827212",
+    "bvid": "BV1rN4y117At",
+    "description": "二测PV"
+  },
+  {
+    "id": "228",
+    "title": "您拨打的用户正在空洞中",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬",
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "2663827213",
+    "bvid": "BV1vy411B7cd",
+    "description": "公测PV"
+  },
+  {
+    "id": "229",
+    "title": "奇迹的起点",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "2663827214",
+    "bvid": "BV1GE4m1R7k5",
+    "description": "世界观PV"
+  },
+  {
+    "id": "230",
+    "title": "朱鸢探长",
+    "artist": [
+      "刘欣辰"
+    ],
+    "producer": [],
+    "lyricist": [
+      "杨武韬"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663823106",
+    "bvid": "BV1im42137GG",
+    "description": "新艾利都治安局宣传动画｜治安局护航 ，防骗不用慌！"
+  },
+  {
+    "id": "231",
+    "title": "卧底蓝调",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "2663827215",
+    "bvid": "BV1im42137kM",
+    "description": "1.1版本PV"
+  },
+  {
+    "id": "232",
+    "title": "偶尔也要出去逛逛",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663827216",
+    "bvid": "BV1yqpnemERm",
+    "description": "外环宣传动画"
+  },
+  {
+    "id": "233",
+    "title": "霸主引擎",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "2663823107",
+    "bvid": "BV1CA4feFE8w",
+    "description": "1.2版本PV"
+  },
+  {
+    "id": "234",
+    "title": "虚拟杀机",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "2663827217",
+    "bvid": "BV1udyDYCE7W",
+    "description": "1.3版本PV"
+  },
+  {
+    "id": "235",
+    "title": "未知区域，信号已断开…",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663827218",
+    "bvid": "BV1eFzSYeEza",
+    "description": "对空六课未知影像"
+  },
+  {
+    "id": "236",
+    "title": "星流霆击",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "版本PV/活动PV",
+    "language": [],
+    "wyid": "2663823108",
+    "bvid": "BV12QiBYEE4P",
+    "description": "1.4版本PV"
+  },
+  {
+    "id": "237",
+    "title": "骑士登场",
+    "artist": [
+      "Mr.mo"
+    ],
+    "producer": [],
+    "lyricist": [
+      "雷十一"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827219",
+    "bvid": "BV1tN4y1m7d5",
+    "description": "比利角色展示"
+  },
+  {
+    "id": "238",
+    "title": "骑士登场 (Remix)",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663823109",
+    "description": "比利角色展示"
+  },
+  {
+    "id": "239",
+    "title": "雷霆光影",
+    "artist": [
+      "三畿道"
+    ],
+    "producer": [],
+    "lyricist": [
+      "肖天"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827220",
+    "bvid": "BV11N4y1q7qD",
+    "description": "安比角色展示"
+  },
+  {
+    "id": "240",
+    "title": "当生意来敲门",
+    "artist": [
+      "三畿道"
+    ],
+    "producer": [],
+    "lyricist": [
+      "雷十一"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827221",
+    "bvid": "BV1uu4y1L7rg",
+    "description": "妮可角色展示"
+  },
+  {
+    "id": "241",
+    "title": "当生意来敲门 (Remix)",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663827222",
+    "description": "妮可角色展示"
+  },
+  {
+    "id": "242",
+    "title": "无法拒绝的条件",
+    "artist": [
+      "Nyanners"
+    ],
+    "producer": [],
+    "lyricist": [
+      "雷十一"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827223",
+    "bvid": "BV1fJ4m1j74G",
+    "description": "猫又角色展示"
+  },
+  {
+    "id": "243",
+    "title": "无法拒绝的条件 (Remix)",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663823110",
+    "description": "猫又角色展示"
+  },
+  {
+    "id": "244",
+    "title": "狼质彬彬",
+    "artist": [
+      "Mr.mo"
+    ],
+    "producer": [],
+    "lyricist": [
+      "邵嘉玮",
+      "罗笛"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827224",
+    "bvid": "BV16M4m167HU",
+    "description": "莱卡恩角色展示"
+  },
+  {
+    "id": "245",
+    "title": "怦然「芯」动",
+    "artist": [
+      "DEVMO"
+    ],
+    "producer": [],
+    "lyricist": [
+      "雷十一"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663823111",
+    "bvid": "BV1tS411A7ZX",
+    "description": "格莉丝角色展示"
+  },
+  {
+    "id": "246",
+    "title": "怦然「芯」动 (Remix)",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663827225",
+    "description": "格莉丝角色展示"
+  },
+  {
+    "id": "247",
+    "title": "访客安全守则",
+    "artist": [
+      "狐妖Mikan"
+    ],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827226",
+    "bvid": "BV1Sb421H7aa",
+    "description": "丽娜角色展示"
+  },
+  {
+    "id": "248",
+    "title": "成就达成率……100%",
+    "artist": [
+      "三畿道"
+    ],
+    "producer": [],
+    "lyricist": [
+      "Peter Sierzput"
+    ],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827227",
+    "bvid": "BV1Yz421z7MB",
+    "description": "11号角色展示"
+  },
+  {
+    "id": "249",
+    "title": "制服·剪刀·鲨鱼尾",
+    "artist": [
+      "雷雨心"
+    ],
+    "producer": [],
+    "lyricist": [
+      "Peter Sierzput"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [
+      "宋培彦"
+    ],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663823112",
+    "bvid": "BV1p1421C7RR",
+    "description": "艾莲角色展示"
+  },
+  {
+    "id": "250",
+    "title": "全天候·朱鸢长官！",
+    "artist": [
+      "三畿道"
+    ],
+    "producer": [],
+    "lyricist": [
+      "雷声"
+    ],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827228",
+    "bvid": "BV1Ji421i7xx",
+    "description": "朱鸢角色展示"
+  },
+  {
+    "id": "251",
+    "title": "青童与白叟",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663827229",
+    "bvid": "BV1BH4y1c7xo",
+    "description": "青衣角色展示"
+  },
+  {
+    "id": "252",
+    "title": "致命审讯",
+    "artist": [
+      "狐妖Mikan"
+    ],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827230",
+    "bvid": "BV16U411S7RT",
+    "description": "简角色展示"
+  },
+  {
+    "id": "253",
+    "title": "卡吕冬的骑行",
+    "artist": [
+      "Ai Mori"
+    ],
+    "producer": [],
+    "lyricist": [
+      "雷声"
+    ],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663823113",
+    "bvid": "BV1ektXeAEcW",
+    "description": "凯撒角色展示"
+  },
+  {
+    "id": "254",
+    "title": "待办事项 99+",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663827231",
+    "bvid": "BV1zTSWYFEJF",
+    "description": "月城柳角色展示"
+  },
+  {
+    "id": "255",
+    "title": "TKO",
+    "artist": [
+      "雷声"
+    ],
+    "producer": [],
+    "lyricist": [
+      "雷声"
+    ],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663823114",
+    "bvid": "BV1fxUUYFE3X",
+    "description": "莱特角色展示"
+  },
+  {
+    "id": "256",
+    "title": "无尽修行",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663827232",
+    "bvid": "BV1kzrfY1EM3",
+    "description": "星见雅角色展示"
+  },
+  {
+    "id": "257",
+    "title": "乌鸦停落之日",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [],
+    "wyid": "2663827233",
+    "bvid": "BV1ZEqKYyEkT",
+    "description": "浅羽悠真角色展示"
+  },
+  {
+    "id": "258",
+    "title": "最后的修行",
+    "artist": [
+      "狐妖Mikan"
+    ],
+    "producer": [],
+    "lyricist": [
+      "Kanato Tanihata"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托：PV原声集",
+    "year": "2025",
+    "genre": "角色PV/角色展示",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2663827234",
+    "bvid": "BV1nNqoY4EYg",
+    "description": "星见雅动画短片 | 成为英雄的旅程"
   },
   {
     "id": "259",
