@@ -22,14 +22,14 @@
     ],
     "album": "绝区零-覆灭重生 Come Alive",
     "year": "2024",
-    "genre": "OP/ED/主题曲",
+    "genre": "主题曲/宣传曲",
     "language": [
       "国语",
       "英语"
     ],
     "wyid": "2604937294",
     "bvid": "BV1E6421Z7rm",
-    "description": "OP"
+    "description": "OP，公测宣传曲"
   },
   {
     "id": "2",
@@ -51,7 +51,7 @@
     "genre": "伴奏",
     "language": [],
     "wyid": "2604937295",
-    "description": "OP"
+    "description": "OP，公测宣传曲"
   },
   {
     "id": "3",
@@ -82,7 +82,7 @@
     "arranger": [],
     "album": "ZENLESS",
     "year": "2024",
-    "genre": "OP/ED/主题曲",
+    "genre": "主题曲/宣传曲",
     "language": [],
     "wyid": "2604006843",
     "bvid": "BV1ns421M7Zs",
@@ -108,7 +108,7 @@
     "arranger": [],
     "album": "ZENLESS",
     "year": "2024",
-    "genre": "OP/ED/主题曲",
+    "genre": "主题曲/宣传曲",
     "language": [],
     "wyid": "2604006844",
     "description": "Tiësto × 绝区零合作曲"
@@ -653,6 +653,715 @@
     "description": "浅羽悠真EP"
   },
   {
+    "id": "28",
+    "title": "60%的日常",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833351",
+    "description": "六分街BGM"
+  },
+  {
+    "id": "29",
+    "title": "60%的遐想",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833352",
+    "description": "六分街BGM"
+  },
+  {
+    "id": "30",
+    "title": "60%的日常·悠闲",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833353",
+    "description": "六分街BGM"
+  },
+  {
+    "id": "31",
+    "title": "60%的遐想·静谧",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833354",
+    "description": "六分街BGM"
+  },
+  {
+    "id": "32",
+    "title": "60%的日常·自由",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833355",
+    "description": "六分街BGM"
+  },
+  {
+    "id": "33",
+    "title": "60%的遐想·热情",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830910",
+    "description": "六分街BGM"
+  },
+  {
+    "id": "34",
+    "title": "action！",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833356",
+    "description": "光映广场BGM"
+  },
+  {
+    "id": "35",
+    "title": "still action！",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833357",
+    "description": "光映广场BGM"
+  },
+  {
+    "id": "36",
+    "title": "vacation！",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830911",
+    "description": "光映广场BGM"
+  },
+  {
+    "id": "37",
+    "title": "still vacation！",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830912",
+    "description": "光映广场BGM"
+  },
+  {
+    "id": "38",
+    "title": "昨日繁华",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833358",
+    "description": "巴莱大厦BGM"
+  },
+  {
+    "id": "39",
+    "title": "注意头顶",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830913",
+    "description": "黑雁工地旧址BGM"
+  },
+  {
+    "id": "40",
+    "title": "limbo",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833359",
+    "description": "斯科特哨站BGM"
+  },
+  {
+    "id": "41",
+    "title": "野火",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830914",
+    "description": "野火镇BGM"
+  },
+  {
+    "id": "42",
+    "title": "运斤成风",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833360",
+    "description": "HAND总部BGM"
+  },
+  {
+    "id": "43",
+    "title": "争流口岸",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833361",
+    "description": "厄匹斯港BGM"
+  },
+  {
+    "id": "44",
+    "title": "地下律动",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830915",
+    "description": "热望角BGM"
+  },
+  {
+    "id": "45",
+    "title": "鼠辈舞台",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833362",
+    "description": "中转站BGM"
+  },
+  {
+    "id": "46",
+    "title": "虚幻光映",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830916",
+    "description": "虚拟光映广场BGM"
+  },
+  {
+    "id": "47",
+    "title": "time to play",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830917",
+    "description": "六分街剧情夜BGM"
+  },
+  {
+    "id": "48",
+    "title": "开盒有惊__",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830918",
+    "description": "玩具店BGM"
+  },
+  {
+    "id": "49",
+    "title": "上上下下左左右右",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833363",
+    "description": "电玩店BGM"
+  },
+  {
+    "id": "50",
+    "title": "机械手冲",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830919",
+    "description": "咖啡店BGM"
+  },
+  {
+    "id": "51",
+    "title": "turbo",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833364",
+    "description": "改装店BGM"
+  },
+  {
+    "id": "52",
+    "title": "微醺的缪斯",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830920",
+    "description": "音像店BGM"
+  },
+  {
+    "id": "53",
+    "title": "三Z出品",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833365",
+    "description": "三Z设计工作室BGM"
+  },
+  {
+    "id": "54",
+    "title": "HIA",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833366",
+    "description": "HIA BGM"
+  },
+  {
+    "id": "55",
+    "title": "秩序守护者",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833367",
+    "description": "治安局BGM"
+  },
+  {
+    "id": "56",
+    "title": "噬魂犬",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830921",
+    "description": "噬魂犬BGM"
+  },
+  {
+    "id": "57",
+    "title": "犬出没",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833368",
+    "description": "噬魂犬BGM"
+  },
+  {
+    "id": "58",
+    "title": "冠军犬",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833369",
+    "description": "噬魂犬BGM"
+  },
+  {
+    "id": "59",
+    "title": "当心尾巴",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830922",
+    "description": "贪吃蛇BGM"
+  },
+  {
+    "id": "60",
+    "title": "拐弯请注意",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833370",
+    "description": "贪吃蛇BGM"
+  },
+  {
+    "id": "61",
+    "title": "别打结！",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833371",
+    "description": "贪吃蛇BGM"
+  },
+  {
+    "id": "62",
+    "title": "怪奇召唤",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830923",
+    "description": "怪奇旅伴BGM"
+  },
+  {
+    "id": "63",
+    "title": "怪奇交易",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833372",
+    "description": "怪奇旅伴BGM"
+  },
+  {
+    "id": "64",
+    "title": "怪奇之旅",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657830924",
+    "description": "怪奇旅伴BGM"
+  },
+  {
+    "id": "65",
+    "title": "怪奇之友",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833373",
+    "description": "怪奇旅伴BGM"
+  },
+  {
+    "id": "66",
+    "title": "Golden Sign _M",
+    "artist": [
+      "Mr.mo"
+    ],
+    "producer": [],
+    "lyricist": [
+      "Peter Sierzput"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2657833374",
+    "description": "调频BGM"
+  },
+  {
+    "id": "67",
+    "title": "Golden Sign _F",
+    "artist": [
+      "三畿道"
+    ],
+    "producer": [],
+    "lyricist": [
+      "Peter Sierzput"
+    ],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2657833375",
+    "description": "调频BGM"
+  },
+  {
+    "id": "68",
+    "title": "Enjoy The Ride",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2657833376",
+    "description": "调频BGM"
+  },
+  {
     "id": "222",
     "title": "绝命舞曲 Acoustic.",
     "artist": [],
@@ -685,7 +1394,7 @@
     "arranger": [],
     "album": "绝区零-极限委托",
     "year": "2024",
-    "genre": "BGM/纯音乐",
+    "genre": "过场动画",
     "language": [
       "英语"
     ],
@@ -729,7 +1438,7 @@
     "arranger": [],
     "album": "绝区零-极限委托",
     "year": "2024",
-    "genre": "OP/ED/主题曲",
+    "genre": "过场动画",
     "language": [
       "国语",
       "英语"
@@ -4995,7 +5704,7 @@
     ],
     "album": "绝区零-预言 Prophecy",
     "year": "2026",
-    "genre": "OP/ED/主题曲",
+    "genre": "主题曲/宣传曲",
     "language": [
       "英语"
     ],
