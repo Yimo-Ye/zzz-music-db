@@ -417,7 +417,7 @@
     ],
     "wyid": "2639322684",
     "bvid": "BV1tUycYNEo5",
-    "description": "柏妮思EP"
+    "description": "柏妮思EP，柏妮思角色展示"
   },
   {
     "id": "18",
@@ -438,7 +438,7 @@
     "genre": "伴奏",
     "language": [],
     "wyid": "2639323478",
-    "description": "柏妮思EP"
+    "description": "柏妮思EP，柏妮思角色展示"
   },
   {
     "id": "19",
@@ -1360,6 +1360,437 @@
     "language": [],
     "wyid": "2657833376",
     "description": "调频BGM"
+  },
+  {
+    "id": "197",
+    "title": "燃油饮",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039452",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "198",
+    "title": "Wifi无处不在",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039027",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "199",
+    "title": "邦布帮帮你",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039453",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "200",
+    "title": "回到放学那一年",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039454",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "201",
+    "title": "141杂货店",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039028",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "202",
+    "title": "波特山",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039029",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "203",
+    "title": "大空洞",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039455",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "204",
+    "title": "不可触碰",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039456",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "205",
+    "title": "侵袭次世代",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039030",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "206",
+    "title": "十万次心跳",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039031",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "207",
+    "title": "新装备",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039457",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "208",
+    "title": "足行天下",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039458",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "209",
+    "title": "小身材大危机",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "雷声"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039459",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "210",
+    "title": "邦布知道",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "杨武韬"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039460",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "211",
+    "title": "吾本如斯",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039461",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "212",
+    "title": "瀑汤谷",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039032",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "213",
+    "title": "Storm Petrel",
+    "artist": [
+      "周斌"
+    ],
+    "producer": [],
+    "lyricist": [
+      "周斌"
+    ],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [
+      "英语"
+    ],
+    "wyid": "2658039462",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "214",
+    "title": "最后一次飞行",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039033",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "215",
+    "title": "远景",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039034",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "216",
+    "title": "H.I.A.的未来",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039035",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "217",
+    "title": "械尸狂潮",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039463",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "218",
+    "title": "快充嗯呢",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039036",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "219",
+    "title": "生活百货",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039464",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "220",
+    "title": "虚无",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039465",
+    "description": "加载界面电视广告（无人声）"
+  },
+  {
+    "id": "221",
+    "title": "咖啡伴侣",
+    "artist": [],
+    "producer": [],
+    "lyricist": [],
+    "composer": [
+      "宋培彦"
+    ],
+    "arranger": [],
+    "album": "绝区零-极限委托",
+    "year": "2024",
+    "genre": "BGM/纯音乐",
+    "language": [],
+    "wyid": "2658039037",
+    "description": "加载界面电视广告（无人声）"
   },
   {
     "id": "222",
@@ -2550,7 +2981,7 @@
     ],
     "wyid": "2711809790",
     "bvid": "BV1eN7czSEVD",
-    "description": "仪玄EP"
+    "description": "仪玄EP，仪玄动画短片"
   },
   {
     "id": "276",
@@ -2571,7 +3002,7 @@
     "genre": "伴奏",
     "language": [],
     "wyid": "2711810546",
-    "description": "仪玄EP"
+    "description": "仪玄EP，仪玄动画短片"
   },
   {
     "id": "277",
@@ -2698,7 +3129,7 @@
     ],
     "wyid": "2749055455",
     "bvid": "BV1cqWgzGEoB",
-    "description": "奥菲斯鬼火EP"
+    "description": "奥菲斯「鬼火」EP"
   },
   {
     "id": "282",
@@ -2719,7 +3150,7 @@
     "genre": "伴奏",
     "language": [],
     "wyid": "2749055456",
-    "description": "奥菲斯鬼火EP"
+    "description": "奥菲斯「鬼火」EP"
   },
   {
     "id": "283",
@@ -5932,5 +6363,54 @@
     "language": [],
     "wyid": "3451609996",
     "description": "菲欧妮EP"
+  },
+  {
+    "id": "452",
+    "title": "Gambit 险棋",
+    "artist": [
+      "Mishon"
+    ],
+    "producer": [
+      "周斌"
+    ],
+    "lyricist": [
+      "Mishon"
+    ],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [
+      "周斌"
+    ],
+    "album": "绝区零-GAMBIT 险棋",
+    "year": "2026",
+    "genre": "角色EP/角色MV",
+    "language": [
+      "英语"
+    ],
+    "wyid": "3459318233",
+    "bvid": "BV1xiWW6uESZ",
+    "description": "赛维里安EP"
+  },
+  {
+    "id": "453",
+    "title": "Gambit 险棋 (伴奏)",
+    "artist": [],
+    "producer": [
+      "周斌"
+    ],
+    "lyricist": [],
+    "composer": [
+      "周斌"
+    ],
+    "arranger": [
+      "周斌"
+    ],
+    "album": "绝区零-GAMBIT 险棋",
+    "year": "2026",
+    "genre": "伴奏",
+    "language": [],
+    "wyid": "3459318234",
+    "description": "赛维里安EP"
   }
 ]
